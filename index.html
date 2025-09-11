@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <link rel="stylesheet" href="./resources/ol.css">
+        <link rel="stylesheet" href="resources/fontawesome-all.min.css">
+        <link href="resources/photon-geocoder-autocomplete.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="./resources/ol-layerswitcher.css">
+        <link rel="stylesheet" href="./resources/qgis2web.css">
+        <style>
+        html, body {
+            background-color: #ffffff;
+        }
+        .ol-control > * {
+            background-color: #f8f8f8!important;
+            color: #444444!important;
+            border-radius: 0px;
+        }
+        .ol-attribution a, .gcd-gl-input::placeholder, .search-layer-input-search::placeholder {
+            color: #444444!important;
+        }
+        .search-layer-input-search {
+            background-color: #f8f8f8!important;
+        }
+        .ol-control > *:focus, .ol-control >*:hover {
+            background-color: rgba(248, 248, 248, 0.7)!important;
+        } 
+        .ol-control {
+            background-color: rgba(255,255,255,.4) !important;
+            padding: 2px !important;
+        } 
+        </style>
+
+        <style>
+        html, body, #map {
+            width: 100%;
+            height: 100%;
+            padding: 0;
+            margin: 0;
+        }
+        </style>
+        <title></title>
+    </head>
+    <body>
+        <div id="map">
+            <div id="popup" class="ol-popup">
+                <a href="#" id="popup-closer" class="ol-popup-closer"></a>
+                <div id="popup-content"></div>
+            </div>
+        </div>
+        <script src="resources/qgis2web_expressions.js"></script>
+<script src="resources/proj4.js"></script>
+        <script>proj4.defs('EPSG:4686','+proj=longlat +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +no_defs');</script>
+        <script src="./resources/functions.js"></script>
+        <script src="./resources/ol.js"></script>
+        <script src="./resources/ol-layerswitcher.js"></script>
+        <script src="resources/photon-geocoder-autocomplete.min.js"></script>
+        <script src="layers/URIBIA_1.js"></script><script src="layers/MAICAO_2.js"></script><script src="layers/RIOACHA_3.js"></script><script src="layers/MANAURE_4.js"></script><script src="layers/Km61VIA_5.js"></script><script src="layers/Km61SSCastellanos_6.js"></script><script src="layers/JASHIIKIRU_7.js"></script><script src="layers/Km35VIA_8.js"></script><script src="layers/Km35SSCastellanos_9.js"></script><script src="layers/SCHIMUN_10.js"></script><script src="layers/Km18VIA_11.js"></script><script src="layers/Km18SSValencia_12.js"></script><script src="layers/KM18MECHUAMANAMULIATUY_13.js"></script><script src="layers/Km15VIA_14.js"></script><script src="layers/Km15SSValencia_15.js"></script><script src="layers/KM15_16.js"></script><script src="layers/VaUribiaAntigua_17.js"></script><script src="layers/VaantiguaUribia_18.js"></script><script src="layers/Km10VIA_19.js"></script><script src="layers/Km10SVGonzales_20.js"></script><script src="layers/VIAKANASUMANAKM10_21.js"></script><script src="layers/Km2VIA_22.js"></script><script src="layers/Km2_23.js"></script><script src="layers/KM2VIAAVALLEDUPAR_24.js"></script>
+        <script src="styles/URIBIA_1_style.js"></script><script src="styles/MAICAO_2_style.js"></script><script src="styles/RIOACHA_3_style.js"></script><script src="styles/MANAURE_4_style.js"></script><script src="styles/Km61VIA_5_style.js"></script><script src="styles/Km61SSCastellanos_6_style.js"></script><script src="styles/JASHIIKIRU_7_style.js"></script><script src="styles/Km35VIA_8_style.js"></script><script src="styles/Km35SSCastellanos_9_style.js"></script><script src="styles/SCHIMUN_10_style.js"></script><script src="styles/Km18VIA_11_style.js"></script><script src="styles/Km18SSValencia_12_style.js"></script><script src="styles/KM18MECHUAMANAMULIATUY_13_style.js"></script><script src="styles/Km15VIA_14_style.js"></script><script src="styles/Km15SSValencia_15_style.js"></script><script src="styles/KM15_16_style.js"></script><script src="styles/VaUribiaAntigua_17_style.js"></script><script src="styles/VaantiguaUribia_18_style.js"></script><script src="styles/Km10VIA_19_style.js"></script><script src="styles/Km10SVGonzales_20_style.js"></script><script src="styles/VIAKANASUMANAKM10_21_style.js"></script><script src="styles/Km2VIA_22_style.js"></script><script src="styles/Km2_23_style.js"></script><script src="styles/KM2VIAAVALLEDUPAR_24_style.js"></script>
+        <script src="./layers/layers.js" type="text/javascript"></script> 
+        <script src="./resources/Autolinker.min.js"></script>
+        <script src="./resources/qgis2web.js"></script>
+    </body>
+</html>
