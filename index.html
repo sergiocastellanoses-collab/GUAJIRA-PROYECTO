@@ -138,8 +138,9 @@
         let isMinimized = false;
         let isMaximized = false;
         let oldStyles = {};
+        let offsetX, offsetY;
 
-        // Minimizar
+        // --------- Minimizar ---------
         function minimizarVentana() {
           if (!isMinimized) {
             bodyV.style.display = "none";
@@ -152,7 +153,7 @@
           }
         }
 
-        // Maximizar
+        // --------- Maximizar ---------
         function maximizarVentana() {
           if (!isMaximized) {
             oldStyles = {
@@ -175,29 +176,58 @@
           }
         }
 
-        // Cerrar
+        // --------- Cerrar ---------
         function cerrarVentana() {
           ventana.style.display = "none";
         }
 
-        // --------- Arrastrar ventana ---------
-        header.onmousedown = function(e) {
+        // --------- Funciones para mover (mouse y touch) ---------
+        function startDrag(e) {
           e.preventDefault();
-          let offsetX = e.clientX - ventana.offsetLeft;
-          let offsetY = e.clientY - ventana.offsetTop;
 
-          document.onmousemove = function(e) {
-            ventana.style.left = (e.clientX - offsetX) + "px";
-            ventana.style.top = (e.clientY - offsetY) + "px";
-          };
+          if (e.type === "mousedown") {
+            offsetX = e.clientX - ventana.offsetLeft;
+            offsetY = e.clientY - ventana.offsetTop;
+            document.addEventListener("mousemove", moveDrag);
+            document.addEventListener("mouseup", stopDrag);
+          } else if (e.type === "touchstart") {
+            offsetX = e.touches[0].clientX - ventana.offsetLeft;
+            offsetY = e.touches[0].clientY - ventana.offsetTop;
+            document.addEventListener("touchmove", moveDrag, { passive: false });
+            document.addEventListener("touchend", stopDrag);
+          }
+        }
 
-          document.onmouseup = function() {
-            document.onmousemove = null;
-            document.onmouseup = null;
-          };
-        };
+        function moveDrag(e) {
+          e.preventDefault();
+          let clientX, clientY;
+
+          if (e.type === "mousemove") {
+            clientX = e.clientX;
+            clientY = e.clientY;
+          } else if (e.type === "touchmove") {
+            clientX = e.touches[0].clientX;
+            clientY = e.touches[0].clientY;
+          }
+
+          ventana.style.left = (clientX - offsetX) + "px";
+          ventana.style.top = (clientY - offsetY) + "px";
+        }
+
+        function stopDrag(e) {
+          if (e.type === "mouseup") {
+            document.removeEventListener("mousemove", moveDrag);
+            document.removeEventListener("mouseup", stopDrag);
+          } else if (e.type === "touchend") {
+            document.removeEventListener("touchmove", moveDrag);
+            document.removeEventListener("touchend", stopDrag);
+          }
+        }
+
+        // Activar arrastre en header
+        header.addEventListener("mousedown", startDrag);
+        header.addEventListener("touchstart", startDrag, { passive: false });
         </script>
     </body>
 </html>
-
 
