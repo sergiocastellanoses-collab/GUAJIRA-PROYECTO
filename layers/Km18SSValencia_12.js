@@ -16,16 +16,16 @@ var json_Km18SSValencia_12 = {
           11°23’27.82"N 72°54’20.29"W
           <br><br>
           <div style="text-align:center; margin-top:8px;">
-            <a href="presentacion/KM18.pdf" target="_blank">
+            <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EcN7ecVIGpNPqEJDAoHCJTwB59thuGqQ9lt0g7UJ5xMkXw?e=yNzr4v" target="_blank">
               <img src="images/Km 18 0+450.jpg" 
                    style="max-width:50px; height:auto; border-radius:8px; box-shadow:0px 0px 6px rgba(0,0,0,0.3);" 
                    alt="Imagen Km 18 0+450">
             </a>
             <br>
-            <a href="presentacion/KM18.pdf" 
+            <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EcN7ecVIGpNPqEJDAoHCJTwB59thuGqQ9lt0g7UJ5xMkXw?e=yNzr4v" 
                target="_blank"
                style="display:block; text-align:center; margin-top:6px; font-weight:bold; color:#2a4d69; text-decoration:none;">
-               VER MÁS
+               VER PRESENTACIÓN
             </a>
           </div>
         `
@@ -44,16 +44,16 @@ var json_Km18SSValencia_12 = {
           11°23’27.82"N 72°54’20.29"W
           <br><br>
           <div style="text-align:center; margin-top:8px;">
-            <a href="presentacion/KM18.pdf" target="_blank">
+            <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EcN7ecVIGpNPqEJDAoHCJTwB59thuGqQ9lt0g7UJ5xMkXw?e=yNzr4v" target="_blank">
               <img src="images/Km 18 0+000.jpg" 
                    style="max-width:50px; height:auto; border-radius:8px; box-shadow:0px 0px 6px rgba(0,0,0,0.3);" 
                    alt="Imagen Km 18 0+000">
             </a>
             <br>
-            <a href="presentacion/KM18.pdf" 
+            <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EcN7ecVIGpNPqEJDAoHCJTwB59thuGqQ9lt0g7UJ5xMkXw?e=yNzr4v" 
                target="_blank"
                style="display:block; text-align:center; margin-top:6px; font-weight:bold; color:#2a4d69; text-decoration:none;">
-               VER MÁS
+               VER PRESENTACIÓN
             </a>
           </div>
         `
@@ -72,16 +72,16 @@ var json_Km18SSValencia_12 = {
           11°23’28.16"N 72°54’7.77"W
           <br><br>
           <div style="text-align:center; margin-top:8px;">
-            <a href="presentacion/KM18.pdf" target="_blank">
+            <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EcN7ecVIGpNPqEJDAoHCJTwB59thuGqQ9lt0g7UJ5xMkXw?e=yNzr4v" target="_blank">
               <img src="images/Km 18 VASO.jpg" 
                    style="max-width:50px; height:auto; border-radius:8px; box-shadow:0px 0px 6px rgba(0,0,0,0.3);" 
                    alt="Imagen Km 18 VASO">
             </a>
             <br>
-            <a href="presentacion/KM18.pdf" 
+            <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EcN7ecVIGpNPqEJDAoHCJTwB59thuGqQ9lt0g7UJ5xMkXw?e=yNzr4v" 
                target="_blank"
                style="display:block; text-align:center; margin-top:6px; font-weight:bold; color:#2a4d69; text-decoration:none;">
-               VER MÁS
+               VER PRESENTACIÓN
             </a>
           </div>
         `
@@ -93,3 +93,4 @@ var json_Km18SSValencia_12 = {
     }
   ]
 };
+
