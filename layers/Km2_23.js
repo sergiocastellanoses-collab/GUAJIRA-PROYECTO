@@ -13,20 +13,20 @@ var json_Km2_23 = {
         "Km": "ALCANTARILLA",
         "popupContent": `
           <b>Coordenadas:</b><br>
-          11°30’ 40.47“ N 72°54'0.32“ W
+          11°30’40.47“N 72°54'0.32“W
           <br><br>
           <div style="text-align:center; margin-top:8px;">
-            <a href="presentacion/KM 2.pdf" 
+            <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EV0dnTbQLQ5OteTB255lc18Bctv3KZGt5n2MBpJY63wxxA?e=z0WKgr" 
                target="_blank">
               <img src="images/Km2ALCANTANRILLA.jpg" 
                    style="max-width:50px; height:auto; border-radius:8px; box-shadow:0px 0px 6px rgba(0,0,0,0.3);" 
                    alt="Imagen Km2 ALCANTARILLA">
             </a>
             <br>
-            <a href="presentacion/KM 2.pdf" 
+            <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EV0dnTbQLQ5OteTB255lc18Bctv3KZGt5n2MBpJY63wxxA?e=z0WKgr" 
                target="_blank" 
                style="display:block; text-align:center; margin-top:6px; font-weight:bold; color:#2a4d69; text-decoration:none;">
-               VER MÁS
+               VER PRESENTACIÓN
             </a>
           </div>
         `
@@ -42,20 +42,20 @@ var json_Km2_23 = {
         "Km": "Km 0+000",
         "popupContent": `
           <b>Coordenadas:</b><br>
-          11°30’ 40.43“ N 72°54'0.46“ W
+          11°30’40.43“N 72°54'0.46“W
           <br><br>
           <div style="text-align:center; margin-top:8px;">
-            <a href="presentacion/KM 2.pdf" 
+            <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EV0dnTbQLQ5OteTB255lc18Bctv3KZGt5n2MBpJY63wxxA?e=z0WKgr" 
                target="_blank">
               <img src="images/Km2 0+000.jpg" 
                    style="max-width:50px; height:auto; border-radius:8px; box-shadow:0px 0px 6px rgba(0,0,0,0.3);" 
                    alt="Imagen Km2 0+000">
             </a>
             <br>
-            <a href="presentacion/KM 2.pdf" 
+            <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EV0dnTbQLQ5OteTB255lc18Bctv3KZGt5n2MBpJY63wxxA?e=z0WKgr" 
                target="_blank" 
                style="display:block; text-align:center; margin-top:6px; font-weight:bold; color:#2a4d69; text-decoration:none;">
-               VER MÁS
+               VER PRESENTACIÓN
             </a>
           </div>
         `
@@ -71,20 +71,20 @@ var json_Km2_23 = {
         "Km": "Km 0+518",
         "popupContent": `
           <b>Coordenadas:</b><br>
-          11°30'39.29 “ N 72°54'0.46 “ W
+          11°30'39.29“N 72°54'0.46“W
           <br><br>
           <div style="text-align:center; margin-top:8px;">
-            <a href="presentacion/KM 2.pdf"
+            <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EV0dnTbQLQ5OteTB255lc18Bctv3KZGt5n2MBpJY63wxxA?e=z0WKgr"
                target="_blank">              
               <img src="images/Km2 0+518.jpg" 
                    style="max-width:50px; height:auto; border-radius:8px; box-shadow:0px 0px 6px rgba(0,0,0,0.3);" 
                    alt="Imagen Km2 0+518">
             </a>
             <br>
-            <a href="presentacion/KM 2.pdf" 
+            <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EV0dnTbQLQ5OteTB255lc18Bctv3KZGt5n2MBpJY63wxxA?e=z0WKgr" 
                target="_blank" 
                style="display:block; text-align:center; margin-top:6px; font-weight:bold; color:#2a4d69; text-decoration:none;">
-               VER MÁS
+               VER PRESENTACIÓN
             </a>
           </div>
         `
@@ -96,3 +96,4 @@ var json_Km2_23 = {
     }
   ]
 };
+
