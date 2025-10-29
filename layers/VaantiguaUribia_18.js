@@ -86,4 +86,42 @@ var json_VaantiguaUribia_18 = {
             <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EaSCHW_mRfdKqSWsPS0kDk8BkX6nDYJUn-TjBb1WH5en2A?e=BHbG7v"
                target="_blank" rel="noopener noreferrer"
                style="display:block; text-align:center; margin-top:6px;
-                      font-weight:bold
+                      font-weight:bold; color:#2a4d69; text-decoration:none;">
+               VER MÁS
+            </a>
+          </div>
+        `
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.267156545, 11.441719735] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "NOMBRE": "Km 0+000",
+        "popupContent": `
+          <b>Coordenadas:</b><br><br>
+          11°26’40.23” N 72°16’2.84” W
+          <br><br>
+          <div style="text-align:center; margin-top:8px;">
+            <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EaSCHW_mRfdKqSWsPS0kDk8BkX6nDYJUn-TjBb1WH5en2A?e=BHbG7v"
+               target="_blank" rel="noopener noreferrer">
+              <img src="images/Km uribia 0+000.jpg"
+                   style="max-width:50px; height:auto; border-radius:8px;
+                          box-shadow:0px 0px 6px rgba(0,0,0,0.3);"
+                   alt="Imagen Km uribia 0+000">
+            </a>
+            <br>
+            <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EaSCHW_mRfdKqSWsPS0kDk8BkX6nDYJUn-TjBb1WH5en2A?e=BHbG7v"
+               target="_blank" rel="noopener noreferrer"
+               style="display:block; text-align:center; margin-top:6px;
+                      font-weight:bold; color:#2a4d69; text-decoration:none;">
+               VER MÁS
+            </a>
+          </div>
+        `
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.267456982, 11.444508464] }
+    }
+  ]
+};
