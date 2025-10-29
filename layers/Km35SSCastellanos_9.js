@@ -11,20 +11,20 @@ var json_Km35SSCastellanos_9 = {
     {
       "type": "Feature",
       "properties": {
-        "Km": "Km 0+000",
+        "Km": "Km 0+ 000",
         "popupContent": `
           <b>Coordenadas:</b><br>
-          11°27'23.7“N 72°35'41.9“W
+          11°27'23.7“ N 72°35'41.9“ W
           <br><br>
           <div style="text-align:center; margin-top:8px;">
-            <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EaW9MY3l2_RIgyUsyABaV1EBDk7up71JjzFLjq3zcsPJbw?e=lfge9P" 
+            <a href="presentacion/KM 35.pdf" 
                target="_blank">
               <img src="images/Km 35 0+000.jpg" 
                    style="max-width:50px; height:auto; border-radius:8px; box-shadow:0px 0px 6px rgba(0,0,0,0.3);" 
                    alt="Imagen Km 35 0+000">
             </a>
             <br>
-            <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EaW9MY3l2_RIgyUsyABaV1EBDk7up71JjzFLjq3zcsPJbw?e=lfge9P" 
+             <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EaW9MY3l2_RIgyUsyABaV1EBDk7up71JjzFLjq3zcsPJbw?e=lfge9P" 
                target="_blank" 
                style="display:block; text-align:center; margin-top:6px; font-weight:bold; color:#2a4d69; text-decoration:none;">
                VER PRESENTACIÓN
@@ -41,10 +41,10 @@ var json_Km35SSCastellanos_9 = {
         "Km": "Km 0+540",
         "popupContent": `
           <b>Coordenadas:</b><br>
-          11°27'06.1“N 72°35'42.1“W
+          11°27'06.1“ N 72°35'42.1“ W
           <br><br>
           <div style="text-align:center; margin-top:8px;">
-            <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EaW9MY3l2_RIgyUsyABaV1EBDk7up71JjzFLjq3zcsPJbw?e=lfge9P" 
+            <a href="presentacion/KM 35.pdf" 
                target="_blank">
               <img src="images/Km 35 0+540.jpg" 
                    style="max-width:50px; height:auto; border-radius:8px; box-shadow:0px 0px 6px rgba(0,0,0,0.3);" 
@@ -68,17 +68,17 @@ var json_Km35SSCastellanos_9 = {
         "Km": "VASO COMUNICANTE",
         "popupContent": `
           <b>Coordenadas:</b><br>
-          11°27’22.84“N 72°35’41.83“W
+          11°27’22.84“ N 72°35’41.83“ W
           <br><br>
           <div style="text-align:center; margin-top:8px;">
-            <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EaW9MY3l2_RIgyUsyABaV1EBDk7up71JjzFLjq3zcsPJbw?e=lfge9P" 
+            <a href="presentacion/KM 35.pdf" 
                target="_blank">
               <img src="images/Km 35 VASO.jpg" 
                    style="max-width:50px; height:auto; border-radius:8px; box-shadow:0px 0px 6px rgba(0,0,0,0.3);" 
                    alt="Imagen Km 35 VASO">
             </a>
             <br>
-            <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EaW9MY3l2_RIgyUsyABaV1EBDk7up71JjzFLjq3zcsPJbw?e=lfge9P" 
+    <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EaW9MY3l2_RIgyUsyABaV1EBDk7up71JjzFLjq3zcsPJbw?e=lfge9P" 
                target="_blank" 
                style="display:block; text-align:center; margin-top:6px; font-weight:bold; color:#2a4d69; text-decoration:none;">
                VER PRESENTACIÓN
@@ -90,3 +90,4 @@ var json_Km35SSCastellanos_9 = {
     }
   ]
 };
+
