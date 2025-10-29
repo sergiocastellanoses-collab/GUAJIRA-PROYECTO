@@ -15,16 +15,16 @@ var json_Km61SSCastellanos_6 = {
           <b>Coordenadas:</b><br>
           11°33'38.3"N 72°20'31.9"W <br><br>
           <div style="text-align:center;">
-            <a href="presentacion/KM 61.pdf" target="_blank">
+            <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EZiGhWGP7wFPr7t2LjjIW7YBfZAqIxlIpz70829W1cO0dw?e=UGXyjq" target="_blank">
               <img src="images/Km 61 0+000.jpg" 
-                   style="max-width:50px; height:auto; border-radius:8px; box-shadow:0px 0px 6px rgba(0,0,0,0.3);" 
+                   style="max-width:60px; height:auto; border-radius:10px; box-shadow:0px 0px 8px rgba(0,0,0,0.3);" 
                    alt="Imagen Km 61 0+000">
             </a>
             <br>
-            <a href="presentacion/KM 61.pdf" 
+            <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EZiGhWGP7wFPr7t2LjjIW7YBfZAqIxlIpz70829W1cO0dw?e=UGXyjq" 
                target="_blank" 
-               style="color:#2a4d69; text-decoration:none; font-weight:bold;">
-              VER MÁS
+               style="color:#2a4d69; text-decoration:none; font-weight:bold; display:block; margin-top:6px;">
+              VER PRESENTACIÓN
             </a>
           </div>
         `
@@ -42,16 +42,16 @@ var json_Km61SSCastellanos_6 = {
           <b>Coordenadas:</b><br>
           11°33'59.4"N 72°20'59.6"W <br><br>
           <div style="text-align:center;">
-            <a href="presentacion/KM 61.pdf" target="_blank">
+            <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EZiGhWGP7wFPr7t2LjjIW7YBfZAqIxlIpz70829W1cO0dw?e=UGXyjq" target="_blank">
               <img src="images/Km 61 1+060.jpg" 
-                   style="max-width:50px; height:auto; border-radius:8px; box-shadow:0px 0px 6px rgba(0,0,0,0.3);" 
+                   style="max-width:60px; height:auto; border-radius:10px; box-shadow:0px 0px 8px rgba(0,0,0,0.3);" 
                    alt="Imagen Km 61 1+060">
             </a>
             <br>
-            <a href="presentacion/KM 61.pdf" 
+            <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EZiGhWGP7wFPr7t2LjjIW7YBfZAqIxlIpz70829W1cO0dw?e=UGXyjq" 
                target="_blank" 
-               style="color:#2a4d69; text-decoration:none; font-weight:bold;">
-              VER MÁS
+               style="color:#2a4d69; text-decoration:none; font-weight:bold; display:block; margin-top:6px;">
+              VER PRESENTACIÓN
             </a>
           </div>
         `
