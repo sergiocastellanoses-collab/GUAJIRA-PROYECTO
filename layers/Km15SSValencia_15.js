@@ -14,14 +14,14 @@ var json_Km15SSValencia_15 = {
         "popupContent": `
 Coordenadas:<br>
           11°25’6.45611"N 72°55’7.27108"W <br><br>
-          <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EeYQFTD1W6dNss9lwS73lmgBQQy0t7gjqmFIsaBRH8kYlg?e=oMVSQ2"
+          <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EeYQFTD1W6dNss9lwS73lmgBQQy0t7gjqmFIsaBRH8kYlg?e=RADCLb"
                target="_blank" rel="noopener noreferrer">
               <img src="images/Km 15 1+010.jpg"
                    style="max-width:50px; height:auto; border-radius:8px; 
                           box-shadow:0px 0px 6px rgba(0,0,0,0.3); margin-top:6px;"
                    alt="Imagen Km 15 1+010">
             </a>
-            <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EeYQFTD1W6dNss9lwS73lmgBQQy0t7gjqmFIsaBRH8kYlg?e=oMVSQ2"
+            <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EeYQFTD1W6dNss9lwS73lmgBQQy0t7gjqmFIsaBRH8kYlg?e=RADCLb"
                target="_blank" rel="noopener noreferrer"
                style="display:block; margin-top:8px; text-align:center; 
                       font-weight:bold; color:#2a4d69; text-decoration:none;">
@@ -39,14 +39,14 @@ Coordenadas:<br>
         "popupContent": `
 Coordenadas:<br>
           11°25’8.0558"N 72°54’57.08516"W <br><br>
-           <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EeYQFTD1W6dNss9lwS73lmgBQQy0t7gjqmFIsaBRH8kYlg?e=oMVSQ2"
+           <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EeYQFTD1W6dNss9lwS73lmgBQQy0t7gjqmFIsaBRH8kYlg?e=RADCLb"
                target="_blank" rel="noopener noreferrer">
               <img src="images/Km 15 0+730.jpg"
                    style="max-width:50px; height:auto; border-radius:8px; 
                           box-shadow:0px 0px 6px rgba(0,0,0,0.3); margin-top:6px;"
                    alt="Imagen Km 15 0+730">
             </a>
-            <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EeYQFTD1W6dNss9lwS73lmgBQQy0t7gjqmFIsaBRH8kYlg?e=oMVSQ2"
+            <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EeYQFTD1W6dNss9lwS73lmgBQQy0t7gjqmFIsaBRH8kYlg?e=RADCLb"
                target="_blank" rel="noopener noreferrer"
                style="display:block; margin-top:8px; text-align:center; 
                       font-weight:bold; color:#2a4d69; text-decoration:none;">
@@ -64,14 +64,14 @@ Coordenadas:<br>
         "popupContent": `
 Coordenadas:<br>
           11°25’10.07544"N 72°54’57.97386"W <br><br>
-           <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EeYQFTD1W6dNss9lwS73lmgBQQy0t7gjqmFIsaBRH8kYlg?e=oMVSQ2"
+           <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EeYQFTD1W6dNss9lwS73lmgBQQy0t7gjqmFIsaBRH8kYlg?e=RADCLb"
                target="_blank" rel="noopener noreferrer">
               <img src="images/Km 15 0+665.jpg"
                    style="max-width:50px; height:auto; border-radius:8px; 
                           box-shadow:0px 0px 6px rgba(0,0,0,0.3); margin-top:6px;"
                    alt="Imagen Km 15 0+665">
             </a>
-            <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EeYQFTD1W6dNss9lwS73lmgBQQy0t7gjqmFIsaBRH8kYlg?e=oMVSQ2"
+            <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EeYQFTD1W6dNss9lwS73lmgBQQy0t7gjqmFIsaBRH8kYlg?e=RADCLb"
                target="_blank" rel="noopener noreferrer"
                style="display:block; margin-top:8px; text-align:center; 
                       font-weight:bold; color:#2a4d69; text-decoration:none;">
@@ -89,14 +89,14 @@ Coordenadas:<br>
         "popupContent": `
 Coordenadas:<br>
           11°25’9.6681"N 72°54’36.07416"W <br><br>
-           <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EeYQFTD1W6dNss9lwS73lmgBQQy0t7gjqmFIsaBRH8kYlg?e=oMVSQ2"
+           <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EeYQFTD1W6dNss9lwS73lmgBQQy0t7gjqmFIsaBRH8kYlg?e=RADCLb"
                target="_blank" rel="noopener noreferrer">
               <img src="images/Km 15 0+000.jpg"
                    style="max-width:50px; height:auto; border-radius:8px; 
                           box-shadow:0px 0px 6px rgba(0,0,0,0.3); margin-top:6px;"
                    alt="Imagen Km 15 0+000">
             </a>
-            <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EeYQFTD1W6dNss9lwS73lmgBQQy0t7gjqmFIsaBRH8kYlg?e=oMVSQ2"
+            <a href="https://1drv.ms/p/c/e9fcf6d0213b42a0/EeYQFTD1W6dNss9lwS73lmgBQQy0t7gjqmFIsaBRH8kYlg?e=RADCLb"
                target="_blank" rel="noopener noreferrer"
                style="display:block; margin-top:8px; text-align:center; 
                       font-weight:bold; color:#2a4d69; text-decoration:none;">
